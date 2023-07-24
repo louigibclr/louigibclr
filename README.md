@@ -6,33 +6,19 @@ Hi, My name is Louigi :smile:
   
 <!--Mostra o Github status-->
 
-![Gabriel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielfelipeassuncaodesouza&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=louigibclr&show_icons=true&theme=radical)
   
 <!--Mostra as linguagens usadas-->
   
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielfelipeassuncaodesouza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=louigibclr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Social medias -->
-***
 
-<a href="https://codepen.io/mathstack">
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-</a>
-<a href="https://www.instagram.com/mathsstack/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://mobile.twitter.com/mathsstack">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-<a href="https://www.tiktok.com/@g4brielfelipe">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-</a>
-<br><br>
  
 <!-- Conquistas -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielfelipeassuncaodesouza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=louigibclr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 <!-- Skills -->
 

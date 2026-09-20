@@ -46,8 +46,8 @@ Graduando em **Sistemas de Informação** na **UTFPR** (Curitiba, PR), com foco 
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=louigibclr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louigibclr&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=louigibclr&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louigibclr&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&cache_seconds=1800" />
 </div>
 
 ---
